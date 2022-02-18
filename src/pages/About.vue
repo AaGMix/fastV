@@ -2,7 +2,7 @@
 
 <template>
   <div class="About">
-    <h1>About fastV</h1>
+    <h1 class="text-3xl font-bold underline">About fastV</h1>
     <p>This is the About page</p>
   </div>
 </template>
