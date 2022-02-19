@@ -6,5 +6,5 @@ TypeScript + Vite + Vue3 + Vue Router + Vuex + Airbnb + Eslint + prettier
 
 - [x] Tailwind CSS
 - [ ] Ant Design ui
-- [ ] native ui
+- [ ] naive ui
 
