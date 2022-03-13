@@ -1,4 +1,5 @@
 # FastV
+Vite template
 
 TypeScript + Vite + Vue3 + Vue Router + Vuex + Airbnb + Eslint + prettier
 
@@ -6,5 +7,5 @@ TypeScript + Vite + Vue3 + Vue Router + Vuex + Airbnb + Eslint + prettier
 
 - [x] Tailwind CSS
 - [ ] Ant Design ui
-- [ ] naive ui
+- [x] naive ui
 
